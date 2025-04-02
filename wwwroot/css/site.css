@@ -1,0 +1,104 @@
+html {
+  font-size: 14px;
+  overflow: hidden;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.flex-container-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container-row {
+    display:flex;
+    flex-direction: row;
+}
+
+.Text1 {
+    font-family: "Atkinson Hyperlegible";
+    font-weight: bold;
+    color: #111111;
+}
+
+.Text2 {
+    font-family: "Atkinson Hyperlegible";
+    font-weight: 500;
+    color: #131315;
+}
+
+.SubContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+   
+}
+
+.GenContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.roundImage {
+    border-radius: 10px;
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
+}
+
+.dropShadow {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.InputBox {
+    font-size: 20px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 0px;
+    width: 100%;
+    max-width: 350px;
+}
+
+.black_btn {
+    font-size: 20px;
+    font-weight: normal;
+    color: white;
+    background-color: #11100E;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 130px;
+    margin-top: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.black_btn:hover {
+    background-color: #332522;
+}
+
+.Block {
+    background-color: white;
+    border-radius: 10px;
+    width: 1000px;
+    height: 350px;
+    margin-left: 60px;
+    margin-right: 30px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color: #fffaf0;
+  margin-bottom: 60px;
+  padding: 20px, 20px, 20px, 20px;
+}

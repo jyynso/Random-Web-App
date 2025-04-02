@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="GenContainer">
+    <div class="SubContainer"
+    style="margin-left:50px;">
+        <h1 class="Text1" 
+        style="font-size:65px;">Welcome!</h1>
+
+        <form method="post" action="/Login/Authenticate">
+            <section>
+                <p class="Text2"
+                style="font-size:20px;
+                        margin-left:5px;">Username</p>
+                <input type="text"
+                placeholder="Enter your username"
+                class="InputBox"
+                id="username"
+                name="username" />
+            </section>
+            <section style="margin-top:10px;">
+                <p class="Text2"
+                style="font-size:20px;
+                        margin-left:5px;">Password</p>
+                <input type="password"
+                placeholder="Enter your password"
+                class="InputBox"
+                id="password"
+                name="password" />
+            </section>
+            <button type="submit" class="black_btn dropShadow">Login</button>
+
+            @if (ViewData.ModelState.Any(x => x.Value.Errors.Any()))
+            {
+                <p class="error-message Text2 " 
+                   style="color:red;
+                          margin-top:10px;
+                          font-size:20px;">Invalid Credentials</p>
+            }
+        </form>
+    </div>
+ 
+
+    <div style="margin-left:200px;
+                margin-top:23px;
+                ">
+        <img src="~/loginWin.jpg" alt="idk" width="500px" height="500px" class="roundImage">
+    </div>
+    
+</div>
+    
+
+
+

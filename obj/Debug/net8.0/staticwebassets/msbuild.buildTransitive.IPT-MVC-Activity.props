@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IPT-MVC-Activity.props" />
+</Project>

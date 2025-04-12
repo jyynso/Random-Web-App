@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/wdl23F6+sAUtEcOcFq62PZFLyY91tz9uGGHXwSduvI=",
+  "Hash": "ZqfdbPbApk1O3LZP4kQ5HozY1tfys+DNLqt6b1iYttc=",
   "Source": "IPT-MVC-Activity",
   "BasePath": "_content/IPT-MVC-Activity",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "71n3k5xvtw",
-      "Integrity": "Wy/Q8qmTNJkOgpqEYig0hVqSZynfO5RqQjAB9LRRkGs=",
+      "Fingerprint": "d0dmvsub1r",
+      "Integrity": "owXOOmj8eQGkAh9wZ+W0s6NkwRS5PZtmtN9OyXepip4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1342,51 +1342,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.71n3k5xvtw.css",
-      "AssetFile": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1820"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Wy/Q8qmTNJkOgpqEYig0hVqSZynfO5RqQjAB9LRRkGs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 13:06:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "71n3k5xvtw"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Wy/Q8qmTNJkOgpqEYig0hVqSZynfO5RqQjAB9LRRkGs="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1405,11 +1360,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wy/Q8qmTNJkOgpqEYig0hVqSZynfO5RqQjAB9LRRkGs=\""
+          "Value": "\"owXOOmj8eQGkAh9wZ+W0s6NkwRS5PZtmtN9OyXepip4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 13:06:06 GMT"
+          "Value": "Wed, 02 Apr 2025 11:17:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1419,7 +1374,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wy/Q8qmTNJkOgpqEYig0hVqSZynfO5RqQjAB9LRRkGs="
+          "Value": "sha256-owXOOmj8eQGkAh9wZ+W0s6NkwRS5PZtmtN9OyXepip4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.d0dmvsub1r.css",
+      "AssetFile": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"owXOOmj8eQGkAh9wZ+W0s6NkwRS5PZtmtN9OyXepip4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 11:17:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0dmvsub1r"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-owXOOmj8eQGkAh9wZ+W0s6NkwRS5PZtmtN9OyXepip4="
         }
       ]
     },
@@ -1528,7 +1528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 03:40:53 GMT"
+          "Value": "Sat, 12 Apr 2025 02:01:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1573,7 +1573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 03:40:53 GMT"
+          "Value": "Sat, 12 Apr 2025 02:01:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1618,7 +1618,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 03:40:53 GMT"
+          "Value": "Sat, 12 Apr 2025 02:01:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1655,7 +1655,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 03:40:53 GMT"
+          "Value": "Sat, 12 Apr 2025 02:01:56 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -10,7 +10,7 @@ namespace IPT_MVC_Activity.Controllers
         {
             if (username == "user123" && password == "pass@user123")
             { 
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Index", "Miniatures");
             }
             else
             {

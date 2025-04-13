@@ -4,11 +4,19 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1 class="Text1"
+    style="margin-top:15px;
+           font-size:50px;">Welcome Admin</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<form method="post" asp-action="Create">
+<button type="submit"
+        class="black_btn"
+        style="padding:10px 30px;
+               margin-top:2px;">Add New User</button>
+</form>
+@* <p>  *@
+@* <a asp-action="Create">Add new User</a> *@
+@* </p> *@
 <table class="table">
     <thead>
         <tr>

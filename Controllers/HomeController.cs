@@ -13,16 +13,19 @@ namespace IPT_MVC_Activity.Controllers
             _logger = logger;
         }
 
-        public IActionResult Logout()
-        {
-            return View("~/Views/Login");
-        }
+        //public IActionResult Logout()
+        //{
+        //    return View("~/Views/Login");
+        //}
 
         public IActionResult Index()
         {
             return View();
         }
-
+        public IActionResult IndexAlt()
+        {
+            return View("~/Views/IndexAlt");
+        }
         public IActionResult Privacy()
         {
             return View();

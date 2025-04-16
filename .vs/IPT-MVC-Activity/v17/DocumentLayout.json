@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\views\\miniatures\\indexalt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|solutionrelative:views\\miniatures\\indexalt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\views\\miniatures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|solutionrelative:views\\miniatures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\views\\miniatures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|solutionrelative:views\\miniatures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\controllers\\miniaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|solutionrelative:controllers\\miniaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\views\\miniatures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|solutionrelative:views\\miniatures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|c:\\users\\ecwt2\\source\\repos\\ipt-mvc-activity\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0B293A06-7848-4ED9-ACF6-6E3DB0C5E308}|IPT-MVC-Activity.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +38,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T08:54:02.715Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -55,78 +73,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-13T08:54:02.715Z",
+              "Title": "MiniaturesController.cs",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\MiniaturesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MiniaturesController.cs",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\MiniaturesController.cs",
+              "RelativeToolTip": "Controllers\\MiniaturesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:22:26.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:15:53.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:20:30.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Miniatures\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\Index.cshtml",
-              "RelativeToolTip": "Views\\Miniatures\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Title": "IndexAlt.cshtml",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\IndexAlt.cshtml",
+              "RelativeDocumentMoniker": "Views\\Miniatures\\IndexAlt.cshtml",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\IndexAlt.cshtml",
+              "RelativeToolTip": "Views\\Miniatures\\IndexAlt.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:02:25.564Z",
+              "WhenOpened": "2025-04-16T00:15:12.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Miniatures\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\Index.cshtml",
+              "RelativeToolTip": "Views\\Miniatures\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T12:23:44.47Z",
+              "WhenOpened": "2025-04-12T14:02:25.564Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Miniatures\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\Create.cshtml",
-              "RelativeToolTip": "Views\\Miniatures\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T08:51:51.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T12:12:22.939Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MiniaturesController.cs",
-              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\MiniaturesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MiniaturesController.cs",
-              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Controllers\\MiniaturesController.cs",
-              "RelativeToolTip": "Controllers\\MiniaturesController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T12:07:03.922Z"
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Miniatures\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\IPT-MVC-Activity\\Views\\Miniatures\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Miniatures\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T00:27:44.789Z",
+              "EditorCaption": ""
             }
           ]
         }

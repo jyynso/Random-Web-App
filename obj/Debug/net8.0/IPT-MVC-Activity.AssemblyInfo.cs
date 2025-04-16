@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPT-MVC-Activity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dbfe6658834c0a8852f70576863dc7749a77727")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ba0079c223c119041faf2e2be03c52aa099ecd")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPT-MVC-Activity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPT-MVC-Activity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

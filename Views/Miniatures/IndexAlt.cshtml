@@ -1,0 +1,69 @@
+﻿@model IEnumerable<IPT_MVC_Activity.Models.Miniature>
+
+@{
+    ViewData["Title"] = "IndexAlt";
+}
+
+<h1 class="Text1"
+    style="margin-top:15px;
+           font-size:50px;">
+    Welcome!
+</h1>
+
+<form method="post" asp-controller="Miniatures" asp-action="Logout">
+        <input type="submit" value="Logout" class="btn btn-danger"
+               style="padding:10px 20px;
+                      border-radius:15px;
+                      margin-left:1000px;" />
+</form>
+
+
+@* <form method="post" asp-action="Create"> *@
+@*     <button type="submit" *@
+@*             class="black_btn" *@
+@*             style="padding:10px 30px; *@
+@*                        margin-top:2px;"> *@
+@*         Add New Item *@
+@*     </button> *@
+@* </form> *@
+
+@* <p>  *@
+@* <a asp-action="Create">Add new User</a> *@
+@* </p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            @* <th> *@
+            @*     @Html.DisplayNameFor(model => model.TableReady) *@
+            @* </th> *@
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                @* <td> *@
+                @*     @Html.DisplayFor(modelItem => item.TableReady) *@
+                @* </td> *@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @* <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> | *@
+                    @* <a asp-action="Details" asp-route-id="@item.Id">Details</a> | *@
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

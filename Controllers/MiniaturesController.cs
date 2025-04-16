@@ -7,12 +7,14 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using IPT_MVC_Activity.Models;
 using YourNamespace.Data;
+using Microsoft.AspNetCore.Http; // For accessing Session
 
 namespace IPT_MVC_Activity.Controllers
 {
     public class MiniaturesController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private List<Miniature> miniatures;
 
         public MiniaturesController(ApplicationDbContext context)
         {
@@ -24,8 +26,10 @@ namespace IPT_MVC_Activity.Controllers
         {
             return View(await _context.Miniatures.ToListAsync());
         }
-
-        // GET: Miniatures/Details/5
+        public async Task<IActionResult> IndexAlt()
+        {
+            return View(await _context.Miniatures.ToListAsync());
+        }
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -42,12 +46,18 @@ namespace IPT_MVC_Activity.Controllers
 
             return View(miniature);
         }
+        public async Task<IActionResult> Logout() // First declaration
+        {
+            
+            return RedirectToAction("Login", "Login");
+        }
 
         // GET: Miniatures/Create
         public IActionResult Create()
         {
             return View();
         }
+        
 
         // POST: Miniatures/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.

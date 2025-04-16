@@ -7,13 +7,25 @@
 <h1 class="Text1"
     style="margin-top:15px;
            font-size:50px;">Welcome Admin</h1>
+    <div style="display:flex;
+                flex-direction:row;">
+    <form method="post" asp-action="Create">
+        <button type="submit"
+                class="black_btn"
+                style="padding:10px 30px;
+                       margin-top:2px;">
+            Add New Item
+        </button>
+    </form>
 
-<form method="post" asp-action="Create">
-<button type="submit"
-        class="black_btn"
-        style="padding:10px 30px;
-               margin-top:2px;">Add New User</button>
-</form>
+    <form method="post" asp-controller="Miniatures" asp-action="Logout">
+        <input type="submit" value="Logout" class="btn btn-danger"
+               style="padding:10px 20px;
+                      border-radius:15px;
+                      margin-left:810px;" />
+    </form>
+    </div>
+
 @* <p>  *@
 @* <a asp-action="Create">Add new User</a> *@
 @* </p> *@
@@ -23,9 +35,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TableReady)
-            </th>
+            @* <th> *@
+            @*     @Html.DisplayNameFor(model => model.TableReady) *@
+            @* </th> *@
             <th>
                 @Html.DisplayNameFor(model => model.Description)
             </th>
@@ -38,15 +50,15 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TableReady)
-            </td>
+            @* <td> *@
+            @*     @Html.DisplayFor(modelItem => item.TableReady) *@
+            @* </td> *@
             <td>
                 @Html.DisplayFor(modelItem => item.Description)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                @* <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> | *@
+                @* <a asp-action="Details" asp-route-id="@item.Id">Details</a> | *@
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>

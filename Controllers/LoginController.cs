@@ -8,9 +8,13 @@ namespace IPT_MVC_Activity.Controllers
         [HttpPost]
         public IActionResult Authenticate(string username, string password)
         {
-            if (username == "user123" && password == "pass@user123")
+            if (username == "admin123" && password == "pass@admin123")
             { 
                 return RedirectToAction("Index", "Miniatures");
+            }
+            else if (username == "user123" && password == "pass@user123")
+            {
+                return RedirectToAction("IndexAlt", "Miniatures");
             }
             else
             {
@@ -25,6 +29,10 @@ namespace IPT_MVC_Activity.Controllers
         }
         // GET: LoginController
         public ActionResult Login()
+        {
+            return View();
+        }
+        public IActionResult Logout()
         {
             return View();
         }
